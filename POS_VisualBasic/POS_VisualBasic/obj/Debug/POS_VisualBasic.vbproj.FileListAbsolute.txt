@@ -1,0 +1,12 @@
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\bin\Debug\POS_VisualBasic.exe.config
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\bin\Debug\POS_VisualBasic.exe
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\bin\Debug\POS_VisualBasic.pdb
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\bin\Debug\POS_VisualBasic.xml
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.vbproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.Form1.resources
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.Resources.resources
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.vbproj.GenerateResource.cache
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.exe
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.xml
+C:\Users\jesus\source\repos\POS_VisualBasic\POS_VisualBasic\obj\Debug\POS_VisualBasic.pdb
