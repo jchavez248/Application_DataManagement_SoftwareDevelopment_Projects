@@ -28,6 +28,6 @@ Form1.vb[Design] - This file is meant to be used with the windows forms tool box
 		   and helping manipulate buttons, panels, toolboxes, comboboxes, etc. on the user interface.
 		   This file allows developers to easily position these objects.
 
-Form1.Designer.vb - This file is used lets buttons utilize the event call functionality. The code here helps create buttons, toolboxes, etc.
+Form1.Designer.vb - This file allows buttons to utilize the event call functionality. The code here creates buttons, toolboxes, etc.
                     and allows access to these objects from the scope from which they are defined.
 		     
