@@ -20,7 +20,7 @@ INSTRUCTIONS ON HOW TO RUN AND EDIT POS_VisualBasic solution
 
 Structure of files:
 
-Form1.vb - This used to create event handlers and utilize event driven program for 
+Form1.vb - This file is used to create event handlers and utilize event driven programming for 
            allowing functionality of buttons when clicked on the actual application.
 	   All of the code for the calculations, data manipulation and data binding will occur on this file.
 
@@ -28,6 +28,6 @@ Form1.vb[Design] - This file is meant to be used with the windows forms tool box
 		   and helping manipulate buttons, panels, toolboxes, comboboxes, etc. on the user interface.
 		   This file allows developers to easily position these objects.
 
-Form1.Designer.vb - This file is used for the code that creates buttons, toolboxes, etc.
+Form1.Designer.vb - This file is used lets buttons utilize the event call functionality. The code here helps create buttons, toolboxes, etc.
                     and allows access to these objects from the scope from which they are defined.
-		    The code here lets buttons utilize the event call functionality.   
+		     
